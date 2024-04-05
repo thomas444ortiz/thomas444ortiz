@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github! My name is Thomas, I'm a full stack software engineer with experience across a variety of technologies and languages (JavaScript, TypeScript, Python, C). My recent focus has been on web development in the React / Node.JS ecosystem, building intuitive and efficient user applications. 
+Welcome to my Github! My name is Thomas, I'm a full stack software engineer with experience across a variety of technologies and languages (JavaScript, TypeScript, Python, C). My recent focus has been on open source developer tools and web development in the React / Node.JS ecosystem. 
 
 ### Highlights
 - 🔭 I’m currently working on KAT - an open source developer tool to help monitor the deprecation status of Kubernetes API's. I am also actively developing a social media platform called Dunk Tank Social. Check out the pinned repo's for both, and please reach out if you want to contribute!
