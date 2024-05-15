@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub! My name is Thomas, I'm a full stack software engineer with experience across a variety of technologies and languages (JavaScript, TypeScript, Python, C), and have built several web applications with React/ Node.js.
+Welcome to my GitHub! My name is Thomas, I'm a full stack software engineer with experience across a variety of technologies and languages (JavaScript, TypeScript, Python, C), and have built several web applications / developer tools with React / Node.js.
 
 ### Highlights
 - 🔭 I cofounded KAT - an open source developer tool designed to help monitor the deprecation status of Kubernetes API's. Check out my pinned repositories to see KAT, as well as some other projects I have worked on.
